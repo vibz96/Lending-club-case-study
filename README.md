@@ -34,4 +34,4 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 
-##### Developed as part of the Exloratory Data Analysis Module required for Advanced Post Graduate Program in Machine Learning and NLP - IIIT,Bangalore.
+##### Developed as part of the Exloratory Data Analysis Module required for Advanced Certificate Programme in Machine Learning and NLP - IIIT,Bangalore.
